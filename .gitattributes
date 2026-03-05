@@ -1,3 +1,4 @@
 Makebot-Setup.exe filter=lfs diff=lfs merge=lfs -text
 Makebot-Portable.exe filter=lfs diff=lfs merge=lfs -text
 MakebotGUI-Portable.exe filter=lfs diff=lfs merge=lfs -text
+MakebotGUI-Setup.exe filter=lfs diff=lfs merge=lfs -text
