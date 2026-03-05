@@ -1,6 +1,6 @@
 {
-  "version": "0.0.23",
+  "version": "0.0.24",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "releaseNotes": "Improved update check reliability with cache-busting and robust release metadata fallbacks.",
-  "webhookMessage": "Updater check reliability improved."
+  "releaseNotes": "Live release for updater reliability improvements plus make-engine log management UI, delete logs action, and 2GB auto-clear toggle.",
+  "webhookMessage": "n/a"
 }
