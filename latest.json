@@ -1,1 +1,6 @@
-﻿{"version":"0.0.20","installerUrl":"https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe"}
+{
+  "version": "0.0.21",
+  "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
+  "releaseNotes": "Update includes updater reliability improvements, fixes for the bot startup/opening glitch, and resolution of login fetch-failed errors.",
+  "webhookMessage": "Updater reliability improvements, bot startup/opening glitch resolved, and login fetch-failed errors fixed."
+}
