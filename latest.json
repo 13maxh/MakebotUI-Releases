@@ -1,6 +1,6 @@
 {
-  "version": "0.0.21",
+  "version": "0.0.22",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "releaseNotes": "Update includes updater reliability improvements, fixes for the bot startup/opening glitch, and resolution of login fetch-failed errors.",
-  "webhookMessage": "Updater reliability improvements, bot startup/opening glitch resolved, and login fetch-failed errors fixed."
+  "releaseNotes": "Improved size selector behavior across Create Task Group, Add Task, Edit Task, Edit Selected Tasks, and Automations. Custom sizes now normalize cleanly and appear consistently in all size pickers.",
+  "webhookMessage": "Size selector update: custom sizes now normalize properly and show consistently across task creation/editing and automations."
 }
