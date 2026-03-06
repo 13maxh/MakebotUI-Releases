@@ -2,5 +2,6 @@
     "version":  "0.0.27",
     "installerUrl":  "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
     "releaseNotes":  "Fixed duplicate task endpoint reliability, legacy duplicate route support, and backend/UI duplicate action compatibility checks.",
-    "webhookMessage":  "Updater metadata refreshed to 0.0.27 with duplicate-action fixes."
+    "webhookMessage":  "Updater metadata refreshed to 0.0.27 with duplicate-action fixes.",
+    "updatedAt":  "2026-03-06T04:55:01.8847589Z"
 }
