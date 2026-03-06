@@ -1,7 +1,7 @@
 {
-    "version":  "0.0.28",
+    "version":  "0.0.29",
     "installerUrl":  "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-    "releaseNotes":  "Added local duplicate-task and duplicate-task-group fallback handlers in packaged runtime, plus duplicate endpoint hardening.",
-    "webhookMessage":  "Published 0.0.28 updater artifacts and metadata.",
-    "updatedAt":  "2026-03-06T05:03:37.3755597Z"
+    "releaseNotes":  "Updater now fetches refs/heads feed URLs first to avoid stale raw cache versions, plus duplicate-task route fallback fixes.",
+    "webhookMessage":  "Published 0.0.29 updater reliability fix.",
+    "updatedAt":  "2026-03-06T05:07:27.1792431Z"
 }
