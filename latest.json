@@ -1,6 +1,6 @@
-{
-  "version": "0.0.26",
-  "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "releaseNotes": "Added duplicate profile group via right-click, duplicate selected tasks via right-click, and _copy naming flow for duplicated groups.",
-  "webhookMessage": "Added duplicate profile group and duplicate selected tasks support."
+﻿{
+    "version":  "0.0.27",
+    "installerUrl":  "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
+    "releaseNotes":  "Fixed duplicate task endpoint reliability, legacy duplicate route support, and backend/UI duplicate action compatibility checks.",
+    "webhookMessage":  "Updater metadata refreshed to 0.0.27 with duplicate-action fixes."
 }
