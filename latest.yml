@@ -1,8 +1,8 @@
-version: 0.0.29
+version: 0.0.30
 files:
-  - url: MakebotGUI-Setup-0.0.29.exe
-    sha512: AkSCfBAOZ9BqsqfKsOwCDnHdZzJ5R6WgyCJwQW+Zx7165/Q6xAiq2uTCKANSR9IUlhgVtVpYJ/YoJjUQjcLwJg==
-    size: 133738575
-path: MakebotGUI-Setup-0.0.29.exe
-sha512: AkSCfBAOZ9BqsqfKsOwCDnHdZzJ5R6WgyCJwQW+Zx7165/Q6xAiq2uTCKANSR9IUlhgVtVpYJ/YoJjUQjcLwJg==
-releaseDate: '2026-03-06T05:07:04.920Z'
+  - url: MakebotGUI-Setup-0.0.30.exe
+    sha512: gCnwu8EYVwwZEk2NSorFqK9nWbkm7L7WxVrOYROAJlBSEMdv5KVq8URMij5HexdlAblNCfBYEgyvPlG15AjgVQ==
+    size: 133738770
+path: MakebotGUI-Setup-0.0.30.exe
+sha512: gCnwu8EYVwwZEk2NSorFqK9nWbkm7L7WxVrOYROAJlBSEMdv5KVq8URMij5HexdlAblNCfBYEgyvPlG15AjgVQ==
+releaseDate: '2026-03-06T16:50:45.816Z'

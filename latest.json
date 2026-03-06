@@ -1,7 +1,7 @@
 {
-    "version":  "0.0.29",
+    "version":  "0.0.30",
     "installerUrl":  "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-    "releaseNotes":  "Updater now fetches refs/heads feed URLs first to avoid stale raw cache versions, plus duplicate-task route fallback fixes.",
-    "webhookMessage":  "Published 0.0.29 updater reliability fix.",
-    "updatedAt":  "2026-03-06T05:07:27.1792431Z"
+    "releaseNotes":  "Added centered top-bar clock with seconds and fixed back-to-dropdown icon/text rendering.",
+    "webhookMessage":  "Published 0.0.30 updater artifacts and metadata.",
+    "updatedAt":  "2026-03-06T16:51:22.1585979Z"
 }
