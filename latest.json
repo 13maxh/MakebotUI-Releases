@@ -1,6 +1,6 @@
 {
-  "version": "0.0.25",
+  "version": "0.0.26",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "releaseNotes": "Fixes include safer delete logs behavior (truncate instead of delete on Windows in-use files) and task search matching status plus all task fields.",
-  "webhookMessage": "n/a"
+  "releaseNotes": "Added duplicate profile group via right-click, duplicate selected tasks via right-click, and _copy naming flow for duplicated groups.",
+  "webhookMessage": "Added duplicate profile group and duplicate selected tasks support."
 }
