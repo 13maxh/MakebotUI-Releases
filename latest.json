@@ -1,7 +1,6 @@
 {
-    "version":  "0.0.32",
-    "installerUrl":  "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-    "releaseNotes":  "Fixed popup/menu auto-closing by isolating top-bar clock rerenders and keeping status updates from forcing full UI remount behavior.",
-    "webhookMessage":  "Published 0.0.32 popup stability fix.",
-    "updatedAt":  "2026-03-06T17:06:09.3511447Z"
+  "version": "0.0.34",
+  "tag": "v0.0.34",
+  "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
+  "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe"
 }
