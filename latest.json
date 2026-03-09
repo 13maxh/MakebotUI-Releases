@@ -1,9 +1,4 @@
 {
-  "version": "0.0.33",
-  "tag": "v0.0.33",
-  "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
-  "releaseNotes": "Added Electron analytics with cache-first Discord syncing, unified app logging, report issue flow, screenshot capture, and runtime storage fixes in account/uifiles.",
-  "webhookMessage": "Published 0.0.33 analytics and runtime update.",
-  "updatedAt": "2026-03-09T21:40:00Z"
+  "version": "0.0.34",
+  "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe"
 }
