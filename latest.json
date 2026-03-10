@@ -1,11 +1,13 @@
 {
-  "version": "0.0.37",
-  "tag": "v0.0.37",
+  "version": "0.0.38",
+  "tag": "v0.0.38",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "rollout": {
-    "mode": "all",
-    "allowedKeys": [],
+    "mode": "allowlist",
+    "allowedKeys": [
+      "maxh2-1660-419c-bd7a-9441e26d5a9e"
+    ],
     "allowedPrefixes": []
   },
   "releaseNotes": ""
