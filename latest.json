@@ -1,6 +1,6 @@
 {
-  "version": "0.0.43",
-  "tag": "v0.0.43",
+  "version": "0.0.44",
+  "tag": "v0.0.44",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "rollout": {
@@ -8,5 +8,5 @@
     "allowedKeys": [],
     "allowedPrefixes": []
   },
-  "releaseNotes": "Fixed logging auto-delete"
+  "releaseNotes": "Updated logging errors for starting tasks"
 }
