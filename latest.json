@@ -1,6 +1,6 @@
 {
-  "version": "0.0.45",
-  "tag": "v0.0.45",
+  "version": "0.0.46",
+  "tag": "v0.0.46",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "rollout": {
@@ -8,5 +8,5 @@
     "allowedKeys": [],
     "allowedPrefixes": []
   },
-  "releaseNotes": "hopeful fix for start tasks not as administrator"
+  "releaseNotes": ""
 }
