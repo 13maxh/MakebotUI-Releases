@@ -1,6 +1,6 @@
 {
-  "version": "0.0.49",
-  "tag": "v0.0.49",
+  "version": "0.0.50",
+  "tag": "v0.0.50",
   "installerUrl": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "url": "https://github.com/13maxh/MakebotUI-Releases/raw/master/MakebotGUI-Setup.exe",
   "rollout": {
@@ -8,5 +8,5 @@
     "allowedKeys": [],
     "allowedPrefixes": []
   },
-  "releaseNotes": "Updated the login, shouldn't need to input key"
+  "releaseNotes": "Fixed key reentry on open (hopefully)"
 }
